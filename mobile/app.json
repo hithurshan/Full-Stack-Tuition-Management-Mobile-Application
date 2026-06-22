@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Tuition Management",
+    "slug": "tuition-management-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "newArchEnabled": true,
+    "extra": {
+      "apiBaseUrl": "http://172.16.21.189:5000"
+    },
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
